@@ -1,15 +1,20 @@
 import $ from 'jquery';
 import React from "react";
 import ReactDOM from "react-dom";
-import './style.css';
+
+//Sass
+import './sass/main.sass';
 
 
-class App extends React.Component{
-	constructor(props){
+class App extends React.Component
+{
+	constructor(props)
+	{
 		super(props);
 	}
 	
-	render(){
+	render()
+	{
 		return(
 			<h1>Hey, it works!</h1>
 		);
