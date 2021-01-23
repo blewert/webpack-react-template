@@ -1,5 +1,5 @@
 # Webpack React Template
-Based on the template minichris/Webpack-Boilerplate. To install, you need to:
+Based on the template [minichris/Webpack-Boilerplate](https://github.com/minichris/Webpack-Boilerplate). To install, you need to:
 
 ```sh
 npm install
